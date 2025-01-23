@@ -1,3 +1,18 @@
+![image 15](https://github.com/user-attachments/assets/5653148c-a0a8-4316-a94d-57fd457f5b5f)
+![image 14](https://github.com/user-attachments/assets/2d52991a-6ea6-4064-8b5a-c3c05719cb69)
+![image 13](https://github.com/user-attachments/assets/e245b2f0-d5ab-4c19-9b3d-685182d8b424)
+![image 12](https://github.com/user-attachments/assets/e0b12857-5737-4fa0-a02e-7878ddec1db3)
+![image 11](https://github.com/user-attachments/assets/9a568d8e-3dd5-42cd-9048-246f15fe919e)
+![image 10](https://github.com/user-attachments/assets/b00d3575-3241-4958-8f4f-7b44dfeb0708)
+![image 9](https://github.com/user-attachments/assets/b2c510d2-114f-4cdd-a6b3-56e16a9cf30a)
+![image 8](https://github.com/user-attachments/assets/9d59a7cb-00e9-4c0c-93b7-9b115efef901)
+![image 7](https://github.com/user-attachments/assets/640110db-f439-4888-88d5-09d6912d6c21)
+![image 6](https://github.com/user-attachments/assets/2377a32a-d391-46ae-a243-66cd2b0ffcec)
+![image 5](https://github.com/user-attachments/assets/fde5d8bb-76af-4054-8753-87f6d0a35c9e)
+![image 4](https://github.com/user-attachments/assets/6aa1ceb0-443f-46ef-bad8-6f1186ab3d3f)
+![image 3](https://github.com/user-attachments/assets/23a1459a-7eea-41df-8dc3-ff100b69899d)
+![image 2](https://github.com/user-attachments/assets/fc22b7b6-e323-4d39-8b27-f8ac4522f7d8)
+![Image 1](https://github.com/user-attachments/assets/82f4830d-e2e4-4abb-aabb-579cc83d8a06)
 # Heart-and-Disease-Prediction..
 Using machine learning for disease prediction involves teaching computers to study lots of medical information to guess if someone might get sick. For example, with heart disease prediction using machine learning, computers can look at factors like age, blood pressure, and cholesterol levels to guess who might have heart problems in the future. This helps doctors catch issues early and keep people healthy.
 
